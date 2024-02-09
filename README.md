@@ -18,15 +18,9 @@ HTML Format for Table:
     <th>Country</th>  }
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Alfreds Futterkiste</td>  {
+    <td>Maria Anders</td>          // fills cells under headings
+    <td>Germany</td>              }
   </tr>
 </table>
-# Day 5
-I forgot about Day 4. Well nothing really happened. We did some tweaking on our website and presentation.
+
