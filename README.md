@@ -12,9 +12,9 @@ Need to go over "working with images/media" for the presentation
 HTML Format for Table: 
 <table>
   <tr>
-    <th>Company</th>  {
-    <th>Contact</th>  // headings within a table
-    <th>Country</th>  }
+    <th>Company</th>  
+    <th>Contact</th>   
+    <th>Country</th>  
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>  {
@@ -22,7 +22,9 @@ HTML Format for Table:
     <td>Germany</td>              }
   </tr>
 </table>
-Did the finishing touches on website and PPP
-- Day 5
+th = headings within a table
+tr = row
+Did the finishing touches on website and PPP.
+
 
 
